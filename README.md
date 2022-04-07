@@ -4,9 +4,6 @@
 # menu tampi data guru
 ![Screenshot 2022-04-07 22 34 09](https://user-images.githubusercontent.com/100138548/162248263-cc8f1329-86c8-4520-b8a5-968139d00771.png)
 # menu tambah data guru
-![Screenshot 2022-04-07 22 34 22](https://user-images.githubusercontent.com/100138548/162248265-f8c3ac5c-67b7-47d0-83f1-78e694de8e46.png)
-![Screenshot 2022-04-07 22 34 22](https://user-images.githubusercontent.com/100138548/162248267-0900ad0a-c7ed-45e8-b36c-f81275b9c1b1.png)
-![Screenshot 2022-04-07 22 34 45](https://user-images.githubusercontent.com/100138548/162248273-6c8008dc-c842-47e4-a46b-092322e55c05.png)
 ![Screenshot 2022-04-07 22 34 45](https://user-images.githubusercontent.com/100138548/162248274-f3de39c4-1523-4201-9063-532872532c28.png)
 ![Screenshot 2022-04-07 22 35 39](https://user-images.githubusercontent.com/100138548/162248276-99764d76-5b4e-4ed7-bdb7-29adac969d04.png)
 ![Screenshot 2022-04-07 22 35 39](https://user-images.githubusercontent.com/100138548/162248277-ecb41253-04be-492a-a552-138404445cd3.png)
